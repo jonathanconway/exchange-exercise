@@ -1,0 +1,11 @@
+{
+  "GBP": {
+    "amount": 500
+  },
+  "USD": {
+    "amount": 500
+  },
+  "EUR": {
+    "amount": 500
+  }
+}
